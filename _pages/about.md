@@ -14,7 +14,7 @@ My research interests are extremal, probabilistic, and arithmetic combinatorics,
 
 Previously, I was an undergraduate student at Brown University advised by [Eli Upfal](https://cs.brown.edu/people/eupfal/).
 
-##Papers and Slides
+## Papers and Slides
 
 * Cutting a unit square and permuting blocks. Preprint (2025). [pdf](https://arxiv.org/pdf/2501.13844)
 * Poisson approximation for large permutation groups with Persi Diaconis. Advances in Applied
@@ -22,7 +22,7 @@ Mathematics Volume 167, Article 102883 (2025). [pdf](https://arxiv.org/pdf/2408.
 * Brain Functional Connectivity Estimation Utilizing Diffusion Kernels on a Structural Connectivity
 Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021) [pdf](https://arxiv.org/pdf/2111.08118)
 
-##Teaching
+## Teaching
 ...
 
 Contact: ntung [at] stanford [dot] edu
