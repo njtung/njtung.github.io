@@ -14,7 +14,7 @@ My research interests are extremal, probabilistic, and arithmetic combinatorics,
 
 Previously, I was an undergraduate student at Brown University advised by [Eli Upfal](https://cs.brown.edu/people/eupfal/).
 
-My Erdős Erd$$\H{o}$$s Erd$\H{o}$s number is 2.
+My Erdős number is 2.
 
 ## Papers and Slides
 
