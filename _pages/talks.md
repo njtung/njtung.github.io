@@ -26,5 +26,5 @@ Talks I have given about other people's research. Usually the topic was my choic
 * Extremal numbers and Sidorenko’s conjecture	- Combinatorics Reading Group (Apr 2024)
 * Graph codes	- Combinatorics Reading Group (Mar 2024)
 * Least singular value of random sign matrices - Student Probability Seminar (Jan 2024)
-* Quantitative invertibility of sparse bernoulli matrices	- Combinatorics Reading Group (Nov 2023)
+* Quantitative invertibility of sparse Bernoulli matrices	- Combinatorics Reading Group (Nov 2023)
 * Yang-Mills for probabilists	- Student Probability Seminar (Oct 2023)
