@@ -22,7 +22,7 @@ My Erdős number is 2.
 * Poisson approximation for large permutation groups with Persi Diaconis. Advances in Applied
 Mathematics Volume 167, Article 102883 (2025). [pdf](https://arxiv.org/pdf/2408.06611)
 * Brain Functional Connectivity Estimation Utilizing Diffusion Kernels on a Structural Connectivity
-Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021) [pdf](https://arxiv.org/pdf/2111.08118)
+Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021) [pdf](https://arxiv.org/pdf/2111.08118) (ASA Best student paper runner-up)
 
 ## Teaching
 ...
