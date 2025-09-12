@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at Stanford University, advised by [Persi Diaconis](https://diaconis.ckirby.su.domains) and [Jacob Fox](https://stanford.edu/~jacobfox/).
+I am a PhD student at Stanford University, advised by [Persi Diaconis](https://diaconis.ckirby.su.domains) and [Jacob Fox](https://stanford.edu/~jacobfox/).
 
 My research interests are extremal, probabilistic, and arithmetic combinatorics, especially random thresholds, Sidorenko-type inequalities, and analytic methods.
 
