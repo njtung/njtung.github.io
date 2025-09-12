@@ -26,9 +26,9 @@ Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021) [pdf](https:
 
 ## Teaching
 
-* Stochastic Processes (Graduate) (2 times)
-* Theory of Probability (Undergraduate) (5 times)
-* Theory of Probability I (Graduate) - Measure Theory (2 times)
-* Theory of Probability III (Graduate) - Stochastic Processes and Brownian Motion (1 time)
+* Stochastic Processes (Graduate) (2 quarters)
+* Theory of Probability (Undergraduate) (5 quarters)
+* Theory of Probability I (Graduate) - Measure Theory (2 quarters)
+* Theory of Probability III (Graduate) - Stochastic Processes and Brownian Motion (1 quarter)
 
 Contact: ntung [at] stanford [dot] edu
