@@ -25,6 +25,9 @@ Mathematics Volume 167, Article 102883 (2025). [pdf](https://arxiv.org/pdf/2408.
 Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021) [pdf](https://arxiv.org/pdf/2111.08118) (ASA best student paper runner-up)
 
 ## Teaching
-...
+Stochastic Processes (Graduate) (2 times)
+Theory of Probability (Undergraduate) (5 times)
+Theory of Probability I (Graduate) - Measure Theory (2 times)
+Theory of Probability III (Graduate) - Stochastic Processes and Brownian Motion (1 time)
 
 Contact: ntung [at] stanford [dot] edu
