@@ -12,7 +12,7 @@ I am a PhD student at Stanford University.
 
 My research interests are extremal, probabilistic, and arithmetic combinatorics, especially random thresholds, Sidorenko-type inequalities, and analytic methods.
 
-Previously, I was an undergraduate student at Brown University advised by [Eli Upfal](https://cs.brown.edu/people/eupfal/).
+Previously, I was an undergraduate at Brown University where I also obtained a Master's in mathematics.
 
 My Erdős number is 2.
 
