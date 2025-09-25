@@ -10,7 +10,7 @@ Talks I have given about my own research.
 * A new lower bound for Szemerédi's theorem with random differences in finite fields - Stanford Student Analytic Number Theory Seminar (Sep 2025)
 * Randomly piercing algebraic sets - Dissertation Proposal (May 2025)
 * Poisson approximation for large permutation groups - Cornell Probability Summer School (Jul 2024)
-* Coupling for wreath product permutations - Algebraic Combinatorics Reading Group (May 2024)
+* Coupling for wreath product permutations - Stanford Algebraic Combinatorics Reading Group (May 2024)
 * A scalable algorithm for brain FC estimation - Joint Statistical Meetings (Aug 2022)
 
 Talks I have given about other people's research. Usually the topic was my choice, so I chose things that naturally interest me. If any of them are your results, thank you for the beautiful math.
