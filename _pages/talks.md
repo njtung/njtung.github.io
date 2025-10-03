@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Talks I have given about my own research.
+Selected talks I have given about my own research.
 
 * A new lower bound for Szemerédi's theorem with random differences in finite fields - Stanford Student Analytic Number Theory Seminar (Sep 2025)
 * Randomly piercing algebraic sets - Dissertation Proposal (May 2025)
