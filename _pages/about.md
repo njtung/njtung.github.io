@@ -18,7 +18,7 @@ Previously, I was an undergraduate at Brown University where I also obtained a M
 
 My Erdős number is 2.
 
-## Papers and Slides
+## Publications and Preprints
 
 * Sandwiching the k-out and binomial random hypergraphs with Anqi Li. Preprint (2025++)
 * New Sidorenko-type inequalities in tournaments with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei. Preprint (2025+).
