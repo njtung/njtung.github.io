@@ -15,11 +15,11 @@ Selected talks I have given about my own research.
 
 Talks I have given about other people's research. Usually the topic was my choice, so I chose things that naturally interest me. If any of them are your results, thank you for the beautiful math.
 
-* Path decompositions	- Combinatorics Reading Group (May 2025) 
-* Spectral independence - Markov Chain Reading Group (May 2025) 
-* Covering with Vapnik-Chervonenkis dimension - Student Probability Seminar (Mar 2025) 
-* Markov chain curvature and cutoff	- Markov Chain Reading Group (Mar 2025) 
-* Convergence of nilpotent ergodic averages	- Additive Combinatorics (Dec 2024) 
+* Path decompositions	- Combinatorics Reading Group (May 2025) [Bonamy et al.](https://mathscinet.ams.org/mathscinet/article?mr=4664091)
+* Spectral independence - Markov Chain Reading Group (May 2025) [Chen, Stefankovic, and Vigoda](https://arxiv.org/abs/2307.13826)
+* Covering with Vapnik-Chervonenkis dimension - Student Probability Seminar (Mar 2025) [van Handel](https://web.math.princeton.edu/~rvan/APC550.pdf)
+* Markov chain curvature and cutoff	- Markov Chain Reading Group (Mar 2025) [Pedrotti and Salez](https://arxiv.org/abs/2501.13079)
+* Convergence of nilpotent ergodic averages	- Additive Combinatorics (Dec 2024) [Walsh](https://mathscinet.ams.org/mathscinet/article?mr=2912715)
 * Pseudorandom decompositions and Hahn Banach - Combinatorics Reading Group	(Nov 2024) 
 * Hypercontractivity in the L1-L2 and KKL inequalities - Student Probability Seminar (Oct 2024)
 * Counting and asymptotics with generating functions - Algebraic Combinatorics Reading Group (May 2024)
