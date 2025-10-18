@@ -15,6 +15,7 @@ Selected talks I have given about my own research.
 
 Talks I have given about other people's research. Usually the topic was my choice, so I chose things that naturally interest me. If any of them are your results, thank you for the beautiful math.
 
+* Sparse regularity with Schatten norms and entropy ([Pascadi](https://arxiv.org/abs/2305.08567)) - Combinatorics Reading Group (Oct 2025)
 * Path decompositions	([Bonamy et al.](https://www.advancesincombinatorics.com/article/88916-separating-the-edges-of-a-graph-by-a-linear-number-of-paths)) - Combinatorics Reading Group (May 2025)
 * Spectral independence ([Chen, Stefankovic, and Vigoda](https://arxiv.org/abs/2307.13826)) - Markov Chain Reading Group (May 2025) 
 * Covering with Vapnik-Chervonenkis dimension ([van Handel](https://web.math.princeton.edu/~rvan/APC550.pdf)) - Student Probability Seminar (Mar 2025) 
