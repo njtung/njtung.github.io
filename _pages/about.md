@@ -20,9 +20,9 @@ My Erdős number is 2.
 
 ## Publications and Preprints
 
-* Sandwiching the k-out and binomial random hypergraphs with Anqi Li. Preprint (2025++)
-* New Sidorenko-type inequalities in tournaments with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei. Preprint (2025+).
-* Randomly piercing algebraic sets with Daniel Altman. Preprint (2025+).
+* Random thresholds in k-out hypergraphs with Anqi Li. In progress (2025++)
+* New Sidorenko-type inequalities in tournaments with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei. In progress (2025++).
+* Randomly piercing algebraic sets with Daniel Altman. In progress (2025++).
 * Cutting a unit square and permuting blocks. Submitted (2025). [pdf](https://arxiv.org/pdf/2501.13844)
 * Poisson approximation for large permutation groups with Persi Diaconis. Advances in Applied
 Mathematics Volume 167, Article 102883 (2025). [pdf](https://arxiv.org/pdf/2408.06611)
