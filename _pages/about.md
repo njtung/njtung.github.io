@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at Stanford University.
 
-My research interests are probabilistic, arithmetic, and extremal combinatorics, especially random thresholds and regularity methods. Some of my favorite tools are concentration of measure, Fourier analysis, and ergodic theory. I want to learn more about computational complexity.
+My research interests are probabilistic, arithmetic, and extremal combinatorics, especially random thresholds, quasirandomness, and homomorphism inequalities. Some of my favorite tools are concentration of measure, Fourier analysis, and ergodic theory. I want to learn more about computational complexity.
 
 <!-- Some things I want to learn more about are ergodic theory and computational complexity. -->
 
