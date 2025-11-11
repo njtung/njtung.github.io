@@ -16,8 +16,6 @@ My research interests are probabilistic, arithmetic, and extremal combinatorics,
 
 Previously, I was an undergraduate at Brown University where I also obtained a Master's in mathematics.
 
-My Erdős number is 2.
-
 ## Publications and Preprints
 
 * Random thresholds in k-out hypergraphs with Anqi Li. In progress (2025++)
@@ -46,4 +44,5 @@ Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021) [pdf](https:
 * Random Structures and Algorithms Conference (Jun 2023)
 * Joint Statistical Meetings (Aug 2022)
 
+Erdős number: 2
 Contact: ntung [at] stanford [dot] edu
