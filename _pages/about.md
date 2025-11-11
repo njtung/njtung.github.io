@@ -18,9 +18,9 @@ Previously, I was an undergraduate at Brown University where I also obtained a M
 
 ## Publications and Preprints
 
-* Random thresholds in k-out hypergraphs with Anqi Li. In progress (2025++)
-* New Sidorenko-type inequalities in tournaments with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei. In progress (2025++).
-* Randomly piercing algebraic sets with Daniel Altman. In progress (2025++).
+* Random thresholds in k-out hypergraphs with Anqi Li. In progress (2026++)
+* New Sidorenko-type inequalities in tournaments with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei. Coming soon (2025++).
+* Randomly piercing algebraic sets with Daniel Altman. Coming soon (2025++).
 * Cutting a unit square and permuting blocks. Submitted (2025). [pdf](https://arxiv.org/pdf/2501.13844)
 * Poisson approximation for large permutation groups with Persi Diaconis. Advances in Applied
 Mathematics Volume 167, Article 102883 (2025). [pdf](https://arxiv.org/pdf/2408.06611)
@@ -44,5 +44,5 @@ Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021) [pdf](https:
 * Random Structures and Algorithms Conference (Jun 2023)
 * Joint Statistical Meetings (Aug 2022)
 
-Erdős number: 2
+Erdős number: 2 \
 Contact: ntung [at] stanford [dot] edu
