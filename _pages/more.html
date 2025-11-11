@@ -43,7 +43,7 @@ author_profile: true
       <img src="../images/IMG_1217.jpeg" alt="test" style="width: 100%; height: auto;">
     </div>
     <figcaption style="font: inherit; color: inherit; margin-top: 10px;">Wasatch forest and Bald peak, Park City Mathematics Institute.
-      Spotted pikas, what <a style="font: inherit; color: inherit; text-decoration: inherit;" href="https://stanford.edu/~speluse/">Sarah Peluse</a> believes to be a ruffed grouse, and a caddisfly larva. Leftmost photo credit to <a href="https://www.lianayepremyan.com">Liana Yepremyan</a> (Jul 2025)</figcaption>
+      Spotted pikas, what <a href="https://stanford.edu/~speluse/">Sarah Peluse</a> believes to be a ruffed grouse, and a caddisfly larva. Leftmost photo credit to <a href="https://www.lianayepremyan.com">Liana Yepremyan</a> (Jul 2025)</figcaption>
   </figure>
 </div>
 
@@ -147,3 +147,17 @@ author_profile: true
     <figcaption style="font: inherit; color: inherit; margin-top: 10px;">Mount Diablo (3849'). Coyote pack ran in circles around tent at night (Dec 2022)</figcaption>
   </figure>
 </div>
+
+<script>
+  // Copy computed styles from the first <p> <a> to all <figcaption> <a>
+  const src = document.querySelector('p a');
+  if (src) {
+    const srcStyles = getComputedStyle(src);
+    document.querySelectorAll('figcaption a').forEach(a => {
+      // List the properties you care about:
+      ['color','textDecoration','fontWeight','borderBottomColor','borderBottomStyle','borderBottomWidth']
+        .forEach(prop => a.style[prop] = srcStyles[prop]);
+    });
+  }
+</script>
+
