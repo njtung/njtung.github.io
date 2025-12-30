@@ -22,7 +22,7 @@ Previously, I was an undergraduate at Brown University where I also obtained a M
 * Linear size independent sets in random Cayley graphs. In progress (2026++).
 * Randomly piercing algebraic sets with Daniel Altman. Coming soon (2025++). -->
 * New Sidorenko-type inequalities in tournaments with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei. Preprint (2025). [pdf](https://arxiv.org/abs/2512.11222)
-* Cutting a unit square and permuting blocks. Submitted (2025). [pdf](https://arxiv.org/pdf/2501.13844)
+* Cutting a unit square and permuting blocks. Preprint (2025). [pdf](https://arxiv.org/pdf/2501.13844)
 * Poisson approximation for large permutation groups with Persi Diaconis. Advances in Applied
 Mathematics Volume 167, Article 102883 (2025). [pdf](https://arxiv.org/pdf/2408.06611)
 * Brain Functional Connectivity Estimation Utilizing Diffusion Kernels on a Structural Connectivity
