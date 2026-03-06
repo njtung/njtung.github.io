@@ -14,7 +14,7 @@ My research interests are probabilistic, arithmetic, and extremal combinatorics,
 
 <!-- Some things I want to learn more about are ergodic theory and computational complexity. -->
 
-Previously, I was an undergraduate at Brown University where I also obtained a Master's in mathematics.
+Previously, I was an undergraduate at Brown University where I also obtained a Master's degree.
 
 ## Publications and Preprints
 
