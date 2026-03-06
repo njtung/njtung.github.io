@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at Stanford University.
 
-My research interests are probabilistic, arithmetic, and extremal combinatorics, especially random thresholds, quasirandomness, and homomorphism inequalities. Some of my favorite tools come from high-dimensional probability and Fourier analysis.
+My research interests are probabilistic, additive, and extremal combinatorics, especially random thresholds, quasirandomness, and homomorphism inequalities. Some of my favorite tools come from high-dimensional probability and Fourier analysis.
 
 <!-- Some things I want to learn more about are ergodic theory and computational complexity. -->
 
