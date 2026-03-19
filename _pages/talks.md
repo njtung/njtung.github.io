@@ -7,7 +7,6 @@ author_profile: true
 
 Selected talks I have given about my own research.
 
-* Randomly piercing algebraic sets - Georgia Tech Combinatorics Seminar (Apr 2026)
 * New Sidorenko-type inequalities in tournaments - Emory Student Combinatorics Seminar (Apr 2026)
 * A new lower bound for Szemerédi's theorem with random differences in finite fields - Stanford Student Analytic Number Theory Seminar (Oct 2025)
 * Randomly piercing algebraic sets - Dissertation Proposal (May 2025)
