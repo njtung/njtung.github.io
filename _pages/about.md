@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at Stanford University.
 
-My research interests are probabilistic, additive, and extremal combinatorics, especially random thresholds, quasirandomness, and homomorphism inequalities. Some of my favorite tools come from high-dimensional probability and Fourier analysis.
+My research interests are probabilistic, additive, and extremal combinatorics. Especially random thresholds, sparse analogs of classical theorems, and homomorphism inequalities. Some of my favorite tools come from high-dimensional probability and Fourier analysis.
 
 <!-- Some things I want to learn more about are ergodic theory and computational complexity. -->
 
@@ -21,15 +21,16 @@ Previously, I was an undergraduate at Brown University where I also obtained a M
 <!-- * Random thresholds in k-out hypergraphs with Anqi Li. In progress (2026++).
 * Linear size independent sets in random Cayley graphs. In progress (2026++).
 * Randomly piercing algebraic sets with Daniel Altman. Coming soon (2025++). -->
-* New Sidorenko-type inequalities in tournaments with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei. Preprint (2025). [pdf](https://arxiv.org/abs/2512.11222)
+* New Sidorenko-type inequalities in tournaments with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei. Submitted (2025). [pdf](https://arxiv.org/abs/2512.11222)
 * Cutting a unit square and permuting blocks. Preprint (2025). [pdf](https://arxiv.org/abs/2501.13844)
 * Poisson approximation for large permutation groups with Persi Diaconis. Advances in Applied
 Mathematics Volume 167, Article 102883 (2025). [pdf](https://arxiv.org/abs/2408.06611)
 * Brain Functional Connectivity Estimation Utilizing Diffusion Kernels on a Structural Connectivity
-Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021). [pdf](https://arxiv.org/abs/2111.08118) (ASA best student paper runner-up)
+Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021). [pdf](https://arxiv.org/abs/2111.08118) (ASA student paper award)
 
 ## Teaching
 
+* Topics in Markov Chains (Graduate) (2 quarters)
 * Stochastic Processes (Graduate) (3 quarters)
 * Theory of Probability (Undergraduate) (5 quarters)
 * Theory of Probability I (Graduate) - Measure Theory (2 quarters)
