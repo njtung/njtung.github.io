@@ -7,7 +7,6 @@ author_profile: true
 
 Selected talks I have given about my own research.
 
-* New Sidorenko-type inequalities in tournaments - Emory Student Combinatorics Seminar (Apr 2026)
 * A new lower bound for Szemerédi's theorem with random differences in finite fields - Stanford Student Analytic Number Theory Seminar (Oct 2025)
 * Randomly piercing algebraic sets - Dissertation Proposal (May 2025)
 * Poisson approximation for large permutation groups - Cornell Probability Summer School (Jul 2024)
