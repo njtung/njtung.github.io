@@ -39,7 +39,7 @@ Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021). [pdf](https
 
 ## Workshops and Conferences
 
-* Synergies in Combinatorics and Theoretical Computer Science (Aug 2026)
+* Synergies in Combinatorics and Theoretical Computer Science Conference (Aug 2026)
 * SIAM Discrete Mathematics Conference (Jun 2026)
 * IAS Park City Mathematics Institute Summer School (Jul 2025)
 * Simons Laufer Mathematical Sciences Institute Workshops (Jan-Mar 2025)
