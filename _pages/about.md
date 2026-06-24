@@ -21,6 +21,7 @@ Previously, I was an undergraduate at Brown University where I also obtained a M
 <!-- * Random thresholds in k-out hypergraphs with Anqi Li. In progress (2026++).
 * Linear size independent sets in random Cayley graphs. In progress (2026++).
 * Randomly piercing algebraic sets with Daniel Altman. Coming soon (2025++). -->
+* Coloring sparse random Cayley graphs. Preprint (2026). [pdf](https://arxiv.org/abs/2606.23762)
 * Randomly piercing algebraic sets with Daniel Altman. Preprint (2026). [pdf](https://arxiv.org/abs/2606.19677)
 * New Sidorenko-type inequalities in tournaments with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei. Submitted (2025). [pdf](https://arxiv.org/abs/2512.11222)
 * Cutting a unit square and permuting blocks. Preprint (2025). [pdf](https://arxiv.org/abs/2501.13844)
