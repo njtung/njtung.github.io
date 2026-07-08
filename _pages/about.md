@@ -7,6 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<script type="application/ld+json">
+{
+  "@context" : "https://schema.org",
+  "@type" : "WebSite",
+  "name" : "Nathan Tung",
+  "url" : "https://njtung.github.io/"
+}
+</script>
 
 I am a PhD student at Stanford University.
 
