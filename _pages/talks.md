@@ -21,7 +21,7 @@ Selected talks I have given about my own research.
 * Coupling for wreath product permutations - Stanford Algebraic Combinatorics Seminar (May 2024)
 * A scalable algorithm for brain FC estimation - Joint Statistical Meetings (Aug 2022) -->
 
-Talks I have given about other people's research. Usually the topic was my choice, so I chose things that naturally interest me. If any of them are your results, thank you for the beautiful math.
+Reading group talks I have given about other people's research. Usually the topic was my choice, so I chose things that naturally interest me. If any of them are your results, thank you for the beautiful math.
 
 * Sparse regularity with Schatten norms and entropy ([Pascadi](https://arxiv.org/abs/2305.08567)) - Combinatorics Reading Group (Oct 2025)
 * Path decompositions	([Bonamy et al.](https://www.advancesincombinatorics.com/article/88916-separating-the-edges-of-a-graph-by-a-linear-number-of-paths)) - Combinatorics Reading Group (May 2025)
