@@ -16,7 +16,7 @@ redirect_from:
 }
 </script>
 
-I am a PhD student at Stanford University.
+I am a PhD student at Stanford University advised by Persi Diaconis.
 
 My research interests are probabilistic, additive, and extremal combinatorics. Especially random thresholds, sparse analogs of classical theorems, and homomorphism inequalities. Some of my favorite tools come from probability and Fourier analysis.
 
