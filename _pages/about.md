@@ -48,16 +48,16 @@ Graph with Jerome Sanes, Eli Upfal, and Ani Eloyan. Preprint (2021). [pdf](https
 
 ## Workshops and Conferences
 
-* AMS Southeastern Sectional (Oct 2026)
+* AMS Southeastern Sectional Meeting (Oct 2026)
 * Synergies in Combinatorics and Theoretical Computer Science Conference (Aug 2026)
 * SIAM Discrete Mathematics Conference (Jun 2026)
 * IAS Park City Mathematics Institute Summer School (Jul 2025)
 * Simons Laufer Mathematical Sciences Institute Workshops (Jan-Mar 2025)
 * Cornell Probability Summer School (Aug 2024)
 * SIAM Discrete Mathematics Conference (Jul 2024)
-* Joint Mathematics Meetings (Jan 2024)
+* Joint Mathematics Meeting (Jan 2024)
 * Random Structures and Algorithms Conference (Jun 2023)
-* Joint Statistical Meetings (Aug 2022)
+* Joint Statistical Meeting (Aug 2022)
 
 Erdős number: 2 \
 Contact: ntung [at] stanford [dot] edu
