@@ -28,6 +28,7 @@ Previously, I was an undergraduate at Brown University.
 
 <!-- * Random thresholds in k-out hypergraphs with Anqi Li. In progress (2026++). -->
 <!-- * Linear equations and chromatic thresholds in \\(B_h\\) sets. Preprint (2026). [pdf](https://arxiv.org/abs/2606.30767) -->
+* On efficient graph covers and steered random walks with Richard Ueltzen. Preprint (2026). [pdf](https://arxiv.org/abs/2607.25016)
 * Linear equations and chromatic thresholds in B_h sets. Preprint (2026). [pdf](https://arxiv.org/abs/2606.30767)
 * Coloring sparse random Cayley graphs. Preprint (2026). [pdf](https://arxiv.org/abs/2606.23762)
 * Randomly piercing algebraic sets with Daniel Altman. Preprint (2026). [pdf](https://arxiv.org/abs/2606.19677)
