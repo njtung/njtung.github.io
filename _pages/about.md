@@ -16,13 +16,9 @@ redirect_from:
 }
 </script>
 
-I am a PhD student at Stanford University.
-
-My research interests are probabilistic, additive, and extremal combinatorics. Especially random thresholds and sparse analogs of classical theorems. Some of my favorite tools come from probability and Fourier analysis.
+I am a PhD student at Stanford University, broadly interested in combinatorics and discrete probability. Lately this has included random threshold problems in additive combinatorics. Previously, I was an undergraduate at Brown University.
 
 <!-- Some things I want to learn more about are ergodic theory and computational complexity. -->
-
-Previously, I was an undergraduate at Brown University.
 
 ## Publications and Preprints
 
