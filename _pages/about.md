@@ -16,7 +16,11 @@ redirect_from:
 }
 </script>
 
-I am a PhD student at Stanford University, broadly interested in combinatorics and discrete probability. Lately this has included random threshold problems in additive combinatorics. Previously, I was an undergraduate at Brown University.
+I am a PhD student at Stanford University.
+
+I am broadly interested in combinatorics and discrete probability, recently including random threshold problems in additive combinatorics. 
+
+Previously, I was an undergraduate at Brown University.
 
 <!-- Some things I want to learn more about are ergodic theory and computational complexity. -->
 
