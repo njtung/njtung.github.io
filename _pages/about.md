@@ -28,28 +28,28 @@ Previously, I was an undergraduate at Brown University.
 
 <!-- * Random thresholds in k-out hypergraphs with Anqi Li. In progress (2026++). -->
 <!-- * Linear equations and chromatic thresholds in \\(B_h\\) sets. Preprint (2026). [pdf](https://arxiv.org/abs/2606.30767) -->
-* On efficient graph covers and steered random walks
-  _with Richard Ueltzen_
+* On efficient graph covers and steered random walks \
+  _with Richard Ueltzen_ \
   [ [arXiv](https://arxiv.org/abs/2607.25016) ]
-* Linear equations and chromatic thresholds in B_h sets
+* Linear equations and chromatic thresholds in B_h sets \
   [ [arXiv](https://arxiv.org/abs/2606.30767) ]
-* Coloring sparse random Cayley graphs
+* Coloring sparse random Cayley graphs \
   [ [arXiv](https://arxiv.org/abs/2606.23762) ]
-* Randomly piercing algebraic sets
-  _with Daniel Altman_
+* Randomly piercing algebraic sets \
+  _with Daniel Altman_ \
   [ [arXiv](https://arxiv.org/abs/2606.19677) ]
-* New Sidorenko-type inequalities in tournaments
-  _with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei_
+* New Sidorenko-type inequalities in tournaments \
+  _with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei_ \
   [ [arXiv](https://arxiv.org/abs/2512.11222) ]
-* Cutting a unit square and permuting blocks
+* Cutting a unit square and permuting blocks \
   [ [arXiv](https://arxiv.org/abs/2501.13844) ]
-* Poisson approximation for large permutation groups
-  _with Persi Diaconis_
+* Poisson approximation for large permutation groups \
+  _with Persi Diaconis_ \
   [ [arXiv](https://arxiv.org/abs/2408.06611) ] [ [Advances in Applied
 Mathematics](https://www.sciencedirect.com/science/article/abs/pii/S0196885825000454) ]
 * Brain Functional Connectivity Estimation Utilizing Diffusion Kernels on a Structural Connectivity
-Graph
-_with Jerome Sanes, Eli Upfal, and Ani Eloyan_
+Graph \
+_with Jerome Sanes, Eli Upfal, and Ani Eloyan_ \
 [ [arXiv](https://arxiv.org/abs/2111.08118) ] (ASA student paper award)
 
 ## Teaching
