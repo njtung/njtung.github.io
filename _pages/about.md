@@ -42,7 +42,7 @@ Previously, I was an undergraduate at Brown University.
   [ [arXiv](https://arxiv.org/abs/2501.13844) ]
 * Poisson approximation for large permutation groups [ [arXiv](https://arxiv.org/abs/2408.06611) ] \
   _with Persi Diaconis_. In Advances in Applied
-Mathematics
+Mathematics.
  <!-- [ [](https://www.sciencedirect.com/science/article/abs/pii/S0196885825000454) ] -->
 * Brain Functional Connectivity Estimation Utilizing Diffusion Kernels on a Structural Connectivity
 Graph [ [arXiv](https://arxiv.org/abs/2111.08118) ] (ASA student paper award) \
