@@ -58,12 +58,13 @@ _with Jerome Sanes, Eli Upfal, and Ani Eloyan_
 
 ## Workshops and Conferences
 
+* Joint Mathematics Meeting (Jan 2027)
 * AMS Southeastern Sectional Meeting (Oct 2026)
-* Spectral Theory, High-Dimensional Expansion, and Pseudorandomness ICM Satellite Conference (Aug 2026)
+* Simons Institute for the Theory of Computing Workshops - Pseudorandomness and High-Dimensional Expansion (Aug-Dec 2026)
 * Synergies in Combinatorics and Theoretical Computer Science ICM Satellite Conference (Aug 2026)
 * SIAM Discrete Mathematics Conference (Jun 2026)
-* IAS Park City Mathematics Institute Summer School (Jul 2025)
-* Simons Laufer Mathematical Sciences Institute Workshops (Jan-Mar 2025)
+* IAS Park City Mathematics Institute Summer School - Extremal and Probabilistic Combinatorics (Jul 2025)
+* Simons Laufer Mathematical Sciences Institute Workshops - Extremal Combinatorics (Jan-Mar 2025)
 * Cornell Probability Summer School (Aug 2024)
 * SIAM Discrete Mathematics Conference (Jul 2024)
 * Joint Mathematics Meeting (Jan 2024)
