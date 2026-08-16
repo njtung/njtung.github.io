@@ -38,7 +38,7 @@ Previously, I was an undergraduate at Brown University.
   _with Daniel Altman_
 * New Sidorenko-type inequalities in tournaments  [ [arXiv](https://arxiv.org/abs/2512.11222) ] \
   _with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei_
-* Cutting a unit square and permuting blocks
+* The cycle structure of large block permutations
   [ [arXiv](https://arxiv.org/abs/2501.13844) ]
 * Poisson approximation for large permutation groups [ [arXiv](https://arxiv.org/abs/2408.06611) ] \
   _with Persi Diaconis_. In Advances in Applied
