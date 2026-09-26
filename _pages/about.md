@@ -58,6 +58,7 @@ _with Jerome Sanes, Eli Upfal, and Ani Eloyan_
 
 ## Workshops and Conferences
 
+* Joint Mathematics Meeting (Jan 2027)
 * AMS Southeastern Sectional Meeting (Oct 2026)
 * Rutgers Probabilistic Combinatorics Conference (Oct 2026)
 * Simons Institute for the Theory of Computing Workshops - Pseudorandomness and High-Dimensional Expansion (Aug-Dec 2026)
