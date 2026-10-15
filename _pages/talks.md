@@ -9,6 +9,7 @@ Selected talks I have given about my own research.
 
 * AMS Special Session on Discrete Random Structures (Jan 2027)
 * AMS Special Session on Extremal Combinatorics and Connections (Oct 2026)
+* AMS Special Session on Topics in Combinatorics and Graph Theory (Oct 2026)
 * SIAM Discrete Mathematics Conference (Jun 2026)
 * Georgia Tech Combinatorics Seminar (Apr 2026)
 * Emory Combinatorics Seminar (Apr 2026)
