@@ -31,10 +31,10 @@ Previously, I was an undergraduate at Brown University.
 * On efficient graph covers and steered random walks [ [arXiv](https://arxiv.org/abs/2607.25016) ] \
   _with Richard Ueltzen_
 * Linear equations and chromatic thresholds in B_h sets
-  [ [arXiv](https://arxiv.org/abs/2606.30767) ] [ [slides](files/B_h_Slides.pdf) ]
+  [ [arXiv](https://arxiv.org/abs/2606.30767) ] [ [slides](~/files/B_h_Slides.pdf) ]
 * Coloring sparse random Cayley graphs
-  [ [arXiv](https://arxiv.org/abs/2606.23762) ] [ [slides](files/Cayley_Coloring_Slides-8.pdf) ]
-* Randomly piercing algebraic sets  [ [arXiv](https://arxiv.org/abs/2606.19677) ] [ [slides](files/Rand_Piercing_Slides.pdf) ] \
+  [ [arXiv](https://arxiv.org/abs/2606.23762) ] [ [slides](~/files/Cayley_Coloring_Slides-8.pdf) ]
+* Randomly piercing algebraic sets  [ [arXiv](https://arxiv.org/abs/2606.19677) ] [ [slides](~/files/Rand_Piercing_Slides.pdf) ] \
   _with Daniel Altman_
 * New Sidorenko-type inequalities in tournaments  [ [arXiv](https://arxiv.org/abs/2512.11222) ] \
   _with Xiaoyu He, Nitya Mani, Jiaxi Nie, and Fan Wei_
