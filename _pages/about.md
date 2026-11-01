@@ -16,11 +16,9 @@ redirect_from:
 }
 </script>
 
-I am a PhD student at Stanford University.
+I am a PhD student at Stanford University. Previously, I was an undergraduate at Brown University.
 
-I am broadly interested in combinatorics and discrete probability. I am especially intrigued by random threshold problems and notions of quasirandomness and complexity.
-
-Previously, I was an undergraduate at Brown University.
+<!-- I am broadly interested in combinatorics and discrete probability. I am especially intrigued by random threshold problems and notions of quasirandomness and complexity. -->
 
 <!-- Some things I want to learn more about are ergodic theory and computational complexity. -->
 
