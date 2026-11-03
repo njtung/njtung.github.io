@@ -26,7 +26,7 @@ I am a PhD student at Stanford University. Previously, I was an undergraduate at
 
 <!-- * Random thresholds in k-out hypergraphs with Anqi Li. In progress (2026++). -->
 <!-- * Linear equations and chromatic thresholds in \\(B_h\\) sets. Preprint (2026). [pdf](https://arxiv.org/abs/2606.30767) -->
-* Concentration on HDX: Simplified and Optimized [ [STOC Submission]([https://arxiv.org/abs/2607.25016](https://stoc2027.sigact-ec.workers.dev/submissions/787.pdf)) ] \
+* Concentration on HDX: Simplified and Optimized [ [STOC Submission](https://stoc2027.sigact-ec.workers.dev/submissions/787.pdf) ] \
   _with Nirjhar Das, Max Hopkins, and Arka Ray_
 * On efficient graph covers and steered random walks [ [arXiv](https://arxiv.org/abs/2607.25016) ] \
   _with Richard Ueltzen_
